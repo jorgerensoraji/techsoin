@@ -1,20 +1,39 @@
-#EXTINF:-1,beIN SPORTS HD1.
-http://rb-group-server.com:25461/live/yassine/yassine/8336.ts
-#EXTINF:-1,beIN SPORTS HD2.
-http://rb-group-server.com:25461/live/yassine/yassine/8337.ts
-#EXTINF:-1,beIN SPORTS HD3.
-http://rb-group-server.com:25461/live/yassine/yassine/8338.ts
-#EXTINF:-1,beIN SPORTS HD4.
-http://rb-group-server.com:25461/live/yassine/yassine/8339.ts
-#EXTINF:-1,beIN SPORTS HD5.
-http://rb-group-server.com:25461/live/yassine/yassine/8340.ts
-#EXTINF:-1,beIN SPORTS HD6.
-http://rb-group-server.com:25461/live/yassine/yassine/8341.ts
-#EXTINF:-1,beIN SPORTS HD7.
-http://rb-group-server.com:25461/live/yassine/yassine/8342.ts
-#EXTINF:-1,beIN SPORTS HD8.
-http://rb-group-server.com:25461/live/yassine/yassine/8343.ts
-#EXTINF:-1,beIN SPORTS HD9.
-http://rb-group-server.com:25461/live/yassine/yassine/9430.ts
-#EXTINF:-1,beIN SPORTS HD10.
-http://rb-group-server.com:25461/live/yassine/yassine/9431.ts
+#EXTM3U
+#EXTINF:-1,PE: AMERICA TELEVISION
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/99856.ts
+#EXTINF:-1,PE: AMERICA TV HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/97667.m3u8
+#EXTINF:-1,PE: ANT TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/122379.m3u8
+#EXTINF:-1,PE: ANTARES TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/99860.m3u8
+#EXTINF:-1,PE: ATV HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/97668.m3u8
+#EXTINF:-1,PE: ATV+
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/118871.m3u8
+#EXTINF:-1,PE: Satellite TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/116117.m3u8
+#EXTINF:-1,PE: CAPITAL TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/99861.m3u8
+#EXTINF:-1,PE: GOL TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/97670.m3u8
+#EXTINF:-1,PE: GOL TV PERU HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/100916.m3u8
+#EXTINF:-1,PE: IPE
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68867.m3u8
+#EXTINF:-1,PE: LATINA
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77878.m3u8
+#EXTINF:-1,PE: Monterrico TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/99858.m3u8
+#EXTINF:-1,PE: NEXT TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/107337.m3u8
+#EXTINF:-1,PE: PANAMERICANA
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77877.m3u8
+#EXTINF:-1,PE: PERU MAGICO
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77876.m3u8
+#EXTINF:-1,PE: PLUS TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77875.m3u8
+#EXTINF:-1,PE: TNP
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77874.m3u8
+#EXTINF:-1,PE: TV PERU HD
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/97674.m3u8
